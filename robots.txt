@@ -1,0 +1,51 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: https://longfordive.github.io/freediving/aida1.html
+
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: https://longfordive.github.io/freediving/aida2.html
+
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: https://longfordive.github.io/freediving/aida3.html
+
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: https://longfordive.github.io/freediving/coach.html
+
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: https://longfordive.github.io/freediving/experience.html
+
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: https://longfordive.github.io/freediving/guilded.html
+
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: https://longfordive.github.io/freediving/index.html
+
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: https://longfordive.github.io/freediving/train.html
+
+
+
+Sitemap: https://longfordive.github.io/freediving/sitemap.xml
